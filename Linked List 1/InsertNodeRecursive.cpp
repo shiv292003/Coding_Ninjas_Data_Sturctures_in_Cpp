@@ -25,7 +25,7 @@ Sample Output 2 :
 /***************************************************** SOLUTION **********************************************************************/
 
 
-
+// Mera comment
 Node* insertNodeRec(Node *head, int i, int data) {
     
     Node *newNode = new Node(data);
