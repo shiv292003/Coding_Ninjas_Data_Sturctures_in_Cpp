@@ -13,6 +13,7 @@ Sample Output :
 
 double geometricSum(int k) {
     // Write your code here
+	cout<<"Solution";
    if(k==0)
 		{
 			return 1;
